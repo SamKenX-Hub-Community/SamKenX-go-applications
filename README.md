@@ -13,4 +13,4 @@ SamKenX spplications[SamKenX WorkOS Go SDK](https://github.com/samkenxstream/Sam
 
 ## Need help?
 
-If you get stuck and aren't able to resolve the issue by reading our [SamKenX WorkOS Go SDK documentation](https://docs.workos.samkenx.org/sdk/go) or [API reference](https://workos.samkenx.org/docs/reference), you can reach out to us at support@samkenx.workos.samkenx.oeg 
+If you get stuck and aren't able to resolve the issue by reading our [SamKenX WorkOS Go SDK documentation](https://docs.workos.samkenx.org/sdk/go) or [API reference](https://workos.samkenx.org/docs/reference), you can reach out to us at support@samkenx.workos.samkenx.org 
